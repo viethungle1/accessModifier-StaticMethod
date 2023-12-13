@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AcessModifier/AcessModifier.iml" filepath="$PROJECT_DIR$/AcessModifier/AcessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AcessModifier_StaticMethod.iml" filepath="$PROJECT_DIR$/.idea/AcessModifier_StaticMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static-Method/Static-Method.iml" filepath="$PROJECT_DIR$/Static-Method/Static-Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticProperty/StaticProperty.iml" filepath="$PROJECT_DIR$/StaticProperty/StaticProperty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WriteOnlyClass/WriteOnlyClass.iml" filepath="$PROJECT_DIR$/WriteOnlyClass/WriteOnlyClass.iml" />
+    </modules>
+  </component>
+</project>
